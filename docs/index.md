@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio on GitHub Pages
+## Alicia RN
+### Data Analysis
 
 You can use the [editor on GitHub](https://github.com/AliciaRN/AliciaRN.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
