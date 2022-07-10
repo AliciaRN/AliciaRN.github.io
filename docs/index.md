@@ -8,7 +8,8 @@ In my recent position as a Quality Assurance Coordinator and RN Trainer, I start
 As I continue to develop my technical skills, I will use this website as a portfolio to show case my projects.
 
 
-![Laptop   office](https://user-images.githubusercontent.com/47366567/178127993-a7a05a5d-b658-447f-8be6-6d4c1b1ea8ac.png)
+![Laptop   office](https://user-images.githubusercontent.com/47366567/178128343-dc2cd7cd-c89c-48c3-8151-523a4cb074bc.png)
+
 
 ### Support or Contact
 
