@@ -1,14 +1,13 @@
 ## Welcome to My Portfolio on GitHub Pages
 ## Alicia RN-Data Analysis
 
-I started my clinical career in 2010 when I graduated with my Associate Degree in Nursing. During my 10+ years of clinical experience I earned a Bachelor’s of Science in Nursing and a Bachelor’s Degree in Healthcare Informatics.
+I started my clinical career in 2010 when I graduated with my Associate Degree in Nursing. During my 10+ years of clinical experience I earned a Bachelor of Science in Nursing and a Bachelor of Science in Health Informatics.
 
-In my recent position as a Quality Assurance Coordinator and RN Trainer, I started to develop my skills in data analysis.
+In my recent position as a Quality Assurance Coordinator and RN Trainer, I started to develop a passion for managing, analyzing, and reporting data. As my experience with Excel, Microsoft Access, & SQL grew, I decided to focus on becoming proficient in data analytics.
 
-As I continue to develop my technical skills, I will use this website as a portfolio to show case my projects.
+This website is a portfolio of projects that cultivated my analytical skills and demonstrates my skills as a data analyst. 
 
-
-![Laptop   office](https://user-images.githubusercontent.com/47366567/178128343-dc2cd7cd-c89c-48c3-8151-523a4cb074bc.png)
+![Laptop   office](https://user-images.githubusercontent.com/47366567/178128695-d5c12244-78c4-471f-bb08-c882d3fd9074.png)
 
 
 ### Support or Contact
